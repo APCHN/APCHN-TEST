@@ -1,2 +1,6 @@
 streamlit
 openai
+requests
+fitz
+python-docx
+beautifulsoup4
